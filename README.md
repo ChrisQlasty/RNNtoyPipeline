@@ -3,6 +3,6 @@
 <br>
 
 #### Files description
-Ine the notebook three .csv files are loaded. First one contains stacked sequences of observations (each containing a set of features). The remaining two contain: length of following sequences and a target labels.
+Ine the notebook three .csv files are loaded. First one contains stacked sequences of observations (each containing a set of features). The remaining two contain: length of following sequences and a target labels. Scheme explains how the lengths apply to stacked sequences:
 
-![](./data/rnn_toy.png)
+<p align="center"><img src="./data/rnn_toy.png" width="75%" height="75%"></p>
